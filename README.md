@@ -57,9 +57,10 @@
 
 
 
+![](http://guhuina.github.io/images/yo/pic.png)
 
 ##案例，当拿到ui稿时，首先定义哪些定义为模块，那些定以为片段，
 
-![](http://guhuina.github.io/images/yo/pic.png)
+![](http://guhuina.github.io/images/yo/pic2.png)
 
 
