@@ -10,13 +10,4 @@
 4. 下载选择的图标放到我们的项目font中，或者放到sources.qunar.com/font 下面
 
 
-![图1](https://raw.githubusercontent.com/guhuina/yo-useage/master/image/1.png)
-
-![图2](https://raw.githubusercontent.com/guhuina/yo-useage/master/image/2.png)
-
-![](https://raw.githubusercontent.com/guhuina/yo-useage/master/image/3.png)
-
-![](https://raw.githubusercontent.com/guhuina/yo-useage/master/image/4.png)
-
-![](https://raw.githubusercontent.com/guhuina/yo-useage/master/image/5.png)
 
