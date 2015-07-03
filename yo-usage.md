@@ -1,7 +1,20 @@
 #yo在项目中的应用
 
+    yo的应用
+    ├── 辅助工具安装
+    │   ├── compass安装 
+    │   └── gulp安装
+    │
+    ├── yo的安装及目录划分
+    │   ├── 安装
+    │   └── yo的使用
+    │
+    └── icon font使用 
 
-# 工具安装
+
+
+
+# 辅助工具安装
 ## compass安装 
 > http://compass-style.org/
 
@@ -38,7 +51,8 @@ https://github.com/guhuina/yo-useage
 
 
 #yo的使用
-
+* 配置和扩展
+* 升级
 * http://ued.qunar.com/mobile/yo/demo/
 
 
