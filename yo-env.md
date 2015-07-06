@@ -52,7 +52,8 @@ $ gem install compass
     $ npm install
 
 ##目录划分及文件夹的功能
-https://github.com/guhuina/yo-useage
+
+https://github.com/guhuina/yo-useage/blob/master/yo-workingFolder.md
 
 
 
