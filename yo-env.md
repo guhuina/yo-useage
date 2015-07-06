@@ -15,7 +15,7 @@
 
 # 辅助工具安装
 ## compass安装 
-> 功能：sass去重，因为fekit暂时不具备去重，而compass可以解决这个问题，即安装compass去重，等fekit具备之后就不用安装了，官网 http://compass-style.org/
+> 功能：sass去重，因为FEKIT 0.2.107及之前的版本不具备去重，而compass可以解决这个问题，即安装compass去重。官网 http://compass-style.org/
 
 	
 ```
