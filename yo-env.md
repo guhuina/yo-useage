@@ -46,14 +46,19 @@ $ gem install compass
 直接clone git@github.com:doyoe/Yo.git
 复制lib目录
 
+
+    
 ##构建工具本地安装
 
     $ npm install
 
+### yo升级
+
+    $ fekit yo -u
+
 ##目录划分及文件夹的功能
 
 https://github.com/guhuina/yo-useage/blob/master/yo-workingFolder.md
-
 
 
 
